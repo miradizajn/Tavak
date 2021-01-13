@@ -1,0 +1,61 @@
+img {
+    width: 150px;
+    height:auto;
+    box-shadow: 3px 5px blue;
+}
+
+th {
+    font-weight: bolder;
+    box-shadow: 1px 2px blue;
+    border-radius: 5px;
+    background-color: lightblue;
+
+}
+
+td {
+    font-weight: bolder;
+    box-shadow: 1px 2px blue;
+    border-radius: 5px;
+    background-color: #40ede2;
+    text-align: center;
+
+}
+
+.egy {
+    color: red;
+}
+
+.velencei {
+    font-weight: bolder;
+    width: 11%;
+    height: 1.6em;
+    box-shadow: 1px 2px blue;
+    border-radius: 10px;
+    background-color: burlywood;
+}
+
+.fotok {
+    background-color: white;
+    box-shadow: 1px 2px white;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 10px;
+    border: 2px solid #42c2f5;
+    border-radius: 10px;
+    width: 100;
+    table-layout: fixed;
+}
+
+.sotet {
+    background-color: blue;
+}
+
+#to {
+    background-color: brown;
+}
+
+.balra {
+    text-align: left;
+}
